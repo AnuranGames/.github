@@ -4,6 +4,6 @@
 
 ![TheRunaGameEngine](TheRunaGameEngine.png)
 
-## Out projects:
+## Our projects:
 
 ![Runa Game Engine](https://github.com/AnuranGames/runa-engine)
